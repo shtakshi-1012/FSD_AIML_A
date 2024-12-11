@@ -24,4 +24,5 @@ function Parent() {
   )
 }
 
-export default Parent
+export {StudentContext};
+export default Parent;
